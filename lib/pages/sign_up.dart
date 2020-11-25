@@ -17,7 +17,7 @@ class _SignUpState extends State<SignUp> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Container(
-              height: 80.0,
+              height: 70.0,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
@@ -45,7 +45,7 @@ class _SignUpState extends State<SignUp> {
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 50.0, vertical: 0.0),
               child: SizedBox(
-                height: 120.0,
+                height: 100.0,
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
@@ -68,7 +68,7 @@ class _SignUpState extends State<SignUp> {
               ),
             ),
             SizedBox(
-              height: 50.0,
+              height: 30.0,
             ),
             Expanded(
               child: Container(
@@ -115,7 +115,7 @@ class _SignUpState extends State<SignUp> {
                               ),
                             ),
                             SizedBox(
-                              height: 20.0,
+                              height: 15.0,
                             ),
                             Container(
                               decoration: BoxDecoration(
@@ -146,7 +146,7 @@ class _SignUpState extends State<SignUp> {
                               ),
                             ),
                             SizedBox(
-                              height: 20.0,
+                              height: 15.0,
                             ),
                             Container(
                               decoration: BoxDecoration(
@@ -177,7 +177,7 @@ class _SignUpState extends State<SignUp> {
                               ),
                             ),
                             SizedBox(
-                              height: 20.0,
+                              height: 15.0,
                             ),
                             Container(
                               decoration: BoxDecoration(
@@ -208,7 +208,7 @@ class _SignUpState extends State<SignUp> {
                               ),
                             ),
                             SizedBox(
-                              height: 20.0,
+                              height: 15.0,
                             ),
                             Container(
                               decoration: BoxDecoration(
@@ -238,7 +238,7 @@ class _SignUpState extends State<SignUp> {
                                 ),
                               ),
                             ),
-                            SizedBox(height: 30.0),
+                            SizedBox(height: 25.0),
                             Container(
                               height: 50.0,
                               width: 162.0,
